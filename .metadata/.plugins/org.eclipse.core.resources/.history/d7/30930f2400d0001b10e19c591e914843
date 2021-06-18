@@ -1,0 +1,14 @@
+package com.fatec.cap09;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class REQ03MantemAlunoTests {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\Users\robso\eclipse-testes\.metadata\.plugins\org.eclipse.jdt.core
+1127490175.index
+354081118.index
+271612703.index
+2281252418.index
+3625199036.index
+3647336941.index
+4103308657.index
+65342566.index
+630092325.index
+1220354796.index
+1680116251.index
+2111113192.index
+2104632086.index
+4187035514.index
+603171738.index
+143293291.index

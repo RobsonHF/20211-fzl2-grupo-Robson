@@ -1,0 +1,14 @@
+package com.fatec.cap10;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CT03_quando_isbn_em_branco {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

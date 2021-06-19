@@ -2,8 +2,6 @@ package com.fatec.cap10;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.List;
-
 import org.junit.jupiter.api.Test;
 
 class CT02_quando_dados_validos_adastra_com_sucesso {
